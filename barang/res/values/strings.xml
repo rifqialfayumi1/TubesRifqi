@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PT ENJ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="slm">Selamat Datang di Aplikasi Informasi Pengiriman Barang</string>
+    <string name="mu">Menu Utama</string>
+    <string name="cek">Cek Tarif</string>
+    <string name="ktr">Kantor Cabang Terdekat</string>
+    <string name="kon">Kontak Kami</string>
+    <string name="ttg">Tentang</string>
+    <string name="cbg">JNE Bandung Kompleks Ruko Batu Nunggal Indah Alamat: Jl. Batununggal Raya 201-203 Soekarno-Hatta Telp. (022) 7501665, 7511677 Fax. (022) 7510272 JNE Bandung Setrasari Plaza Blok D#5 Telp. (022) 2020811, 2009220, 2018802 Fax. (022) 2020812 JNE Bandung Jl. PSM. Kiaracondong Di Seberang Yomart Telp. (022) 7301613 Alamat Agen JNE Bandung Jalan Sriwijaya No.39 JNE Bandung di Jl. Martanegara 38 Lokasi Dekat dengan POM bensin di Jl. Turangga Telp. (022) 7306236 JNE Bandung di Jl. Surapati 120 Telp. (022) 7235901 JNE Bandung di Jl. Raya Permata Kawaluyaan Komp. Permata Kawaluyaan Ruko No. 1-4 Soekarno-Hatta Lokasi Di Belakang Samsat Telp. (022) 7335454/55 JNE Bandung Jl. Surapati No. 55 Alamat: Dekat lampu merah Telkom gasibu) Nomor Telepon: 0811 205 618 JNE Bandung Jl. Padjajaran No. 80 B Nomor Telepon: 087821851052 JNE Bandung Jl. Dipatiukur 68B Telp. (021) 2506627 JNE Bandung Jl. Sulaksana (Lapangan Futsal) (Sehabis lewat Borma Antapani belok kiri) Telephone. (022) 766 71222 – 081221222524 JNE Bandung Jl. Suniaraja 119 (Pasar Baru) Telp. (022) 422 4734 JNE Bandung Seberang Rs. Cicendo Phone: (022) 420 3193 – 0816 421 7502 JNE Bandung Jl. Kiaracondong 375A Telp. (022) 70806537 JNE Bandung Jl. Otista No. 223 Telephone: (022) 423 8100</string>
+    <string name="cbg2">JNE Bandung Kompleks Ruko Batu Nunggal Indah Alamat: Jl. Batununggal Raya 201-203 Soekarno-Hatta Telp. (022) 7501665, 7511677 Fax. (022) 7510272</string>
+    <string name="par1">JNE Bandung Kompleks Ruko Batu Nunggal Indah Alamat: Jl. Batununggal Raya 201-203 Soekarno-Hatta Telp. (022) 7501665, 7511677 Fax. (022) 7510272</string>
+    <string name="par2">JNE Bandung Setrasari Plaza Blok D#5 Telp. (022) 2020811, 2009220, 2018802 Fax. (022) 2020812</string>
+    <string name="par3">JNE Bandung Jl. PSM. Kiaracondong Di Seberang Yomart Telp. (022) 7301613</string>
+    <string name="par4">JNE Bandung Jalan Sriwijaya No.39</string>
+    <string name="para1">1. JNE Bandung Kompleks Ruko Batu Nunggal Indah Alamat: Jl. Batununggal Raya 201-203 Soekarno-Hatta Telp. (022) 7501665, 7511677 Fax. (022) 7510272</string>
+    <string name="para2">2. JNE Bandung Setrasari Plaza Blok D#5 Telp. (022) 2020811, 2009220, 2018802 Fax. (022) 2020812</string>
+    <string name="para3">3. JNE Bandung Jl. PSM. Kiaracondong Di Seberang Yomart Telp. (022) 7301613</string>
+    <string name="para4">4. JNE Bandung Jalan Sriwijaya No.39</string>
+    <string name="para5">5. JNE Bandung di Jl. Martanegara 38 Lokasi Dekat dengan POM bensin di Jl. Turangga Telp. (022) 7306236</string>
+    <string name="para6">6. JNE Bandung di Jl. Surapati 120 Telp. (022) 7235901</string>
+    <string name="para7">7. JNE Bandung di Jl. Raya Permata Kawaluyaan Komp. Permata Kawaluyaan Ruko No. 1-4 Soekarno-Hatta Lokasi Di Belakang Samsat Telp. (022) 7335454/55</string>
+    <string name="para8">8. JNE Bandung Jl. Surapati No. 55 Alamat: Dekat lampu merah Telkom gasibu) Nomor Telepon: 0811 205 618</string>
+    <string name="para9">JNE Bandung Jl. Padjajaran No. 80 B Nomor Telepon: 087821851052</string>
+    <string name="par9">9. JNE Bandung Jl. Padjajaran No. 80 B Nomor Telepon: 087821851052</string>
+    <string name="bdg">Bandung</string>
+    <string name="jkt">Jakarta</string>
+    <string name="asl">Asal Kota</string>
+    <string name="tuju">Kota Tujuan</string>
+    <string name="brt">Berat</string>
+    <string name="kg">kg</string>
+    <string name="HRG">Harga</string>
+
+</resources>

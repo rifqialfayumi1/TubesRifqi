@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. ENJ Bandung Kompleks Ruko Batu Nunggal Indah Alamat: Jl. Batununggal Raya 201-203 Soekarno-Hatta Telp. (022) 7501665, 7511677 Fax. (022) 7510272" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2. ENJ Bandung Setrasari Plaza Blok D#5 Telp. (022) 2020811, 2009220, 2018802 Fax. (022) 2020812" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3. ENJ Bandung Jl. PSM. Kiaracondong Di Seberang Yomart Telp. (022) 7301613" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4. ENJ Bandung Jalan Sriwijaya No.39" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5. ENJ Bandung di Jl. Martanegara 38 Lokasi Dekat dengan POM bensin di Jl. Turangga Telp. (022) 7306236" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6. ENJ Bandung di Jl. Surapati 120 Telp. (022) 7235901" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7. ENJ Bandung di Jl. Raya Permata Kawaluyaan Komp. Permata Kawaluyaan Ruko No. 1-4 Soekarno-Hatta Lokasi Di Belakang Samsat Telp. (022) 7335454/55" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8. ENJ Bandung Jl. Surapati No. 55 Alamat: Dekat lampu merah Telkom gasibu) Nomor Telepon: 0811 205 618" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="9. ENJ Bandung Jl. Padjajaran No. 80 B Nomor Telepon: 087821851052" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
